@@ -16,7 +16,7 @@
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ittyi&layout=compact&theme=dracula" />
 </a>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/Kazuki0320/Kazuki0320/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/Kazuki0320/Kazuki0320/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/ittyi/ittyi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/ittyi/ittyi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 _generated with [platane/snk](https://github.com/Platane/snk/)
